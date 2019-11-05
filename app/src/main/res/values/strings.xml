@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">First Kotlin App</string>
+    <string name="app_name">Adlib</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
     <string name="button_random">Random</string>
     <string name="button_count">Add one</string>
-    <string name="no_message">Message not received</string>
+    <string name="no_message">default answer</string>
 </resources>
