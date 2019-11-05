@@ -41,12 +41,16 @@ class DisplayMessageActivity : AppCompatActivity() {
             text = word5
         }
 
-        val answer6 = findViewById<TextView>(R.id.answer5).apply {
+        val answer6 = findViewById<TextView>(R.id.answer6).apply {
             text = word6
         }
 
-        val answer7 = findViewById<TextView>(R.id.answer6).apply {
+        val answer7 = findViewById<TextView>(R.id.answer7).apply {
             text = word7
+        }
+
+        val answer8 = findViewById<TextView>(R.id.answer8).apply {
+            text = word8
         }
     }
 
